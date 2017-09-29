@@ -7,17 +7,6 @@
 #EXTINF:-1, [COLOR red]ATUALIZADA EM 26/01/2017[/COLOR]
  
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-b8M--6qG_EM/VcJcyIJLJWI/AAAAAAAAQPk/A8E7BmR64sA/s1600/LEGO_Avengers_Cover.jpg" group-title="DESENHO",[COLOR green]LEGO - Os Vingadores - O Filme[/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pxqxdk2OB_w
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Trftsth-64C6oTzFKYp4BECElEE=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2017/06/spiderman_homecoming.jpg" group-title="Filmes",Homem-Aranha: De Volta ao Lar
+http://assistir.querofilmehd.com/filmes/Spider-Man.Homecoming.2017.1080p.HDRip.AC3.H264.Dual-floyd.mp4
 
-#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/proxy/nee_deoSGlHWrz_fogqxghn4lDdd02QQCbxNotMkxYTdNdVpgLHmlXDMby4L6SpFBoTCBYm56IxZD2oqgtWRRpso1RDggV-YIOvd6KSSBl3G13HanYqW8RtoRFbkID7UhTqzRfal5lhCBCmKTQ=s0-d" group-title="DESENHO",[COLOR green]LEGO - Jurassic World - O Filme[/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fJUHehFG-AM
-
-#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_H3yp8TaRNE/U4jT0kZdpsI/AAAAAAAAMTk/XG-89daI6Zw/s1600/LEGO_Batman_Beyond_Gotham_6.jpg" group-title="DESENHO",[COLOR green]LEGO - Batman 3 - O Filme[/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_E05sDasV5U
-
-#EXTINF:-1 tvg-logo="http://baixargamestorrent.biz/wp-content/uploads/2015/07/Baixar-LEGO-Star-Wars-Complete-Saga-PC-Torrent-capa.jpg" group-title="DESENHO",[COLOR green]LEGO - Star Wars O Despertar da Força - O Filme[/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vmpdXGT-Wy4
-
-#EXTINF:-1 tvg-logo="https://gigaingames.files.wordpress.com/2014/04/ebf89-legothehobbitpc.jpg" group-title="DESENHO",[COLOR green]LEGO - O Hobbit - O Filme[/COLOR] 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OVLbq6sqf-A
